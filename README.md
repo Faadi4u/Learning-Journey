@@ -11,23 +11,23 @@
 
  ## to a Senior Full-Stack:
  - Frontend:
-	1.	TypeScript
-	2.	Next.js + Tailwind CSS + TanStack Query
+	- TypeScript
+	- Next.js + Tailwind CSS + TanStack Query
 
  - Backend:
-	3.	PostgreSQL + Prisma + NextAuth.js
-	4.	NestJS + Redis
-	5.	BullMQ + WebSockets / Real-time
-	6.	tRPC
+	- PostgreSQL + Prisma + NextAuth.js
+	- NestJS + Redis
+	- BullMQ + WebSockets / Real-time
+	- tRPC
 
  - INFRA:
-	7.	Docker + Docker Compose
-	8.	Kubernetes
-	9.	AWS (S3, ECS, Lambda) + Terraform
+	- Docker + Docker Compose
+	- Kubernetes
+	- AWS (S3, ECS, Lambda) + Terraform
 
 - DevOps & Observability:
-	10.	GitHub Actions (CI/CD)
-	11.	Observability: OpenTelemetry + Grafana 
+	1- GitHub Actions (CI/CD)
+	1- Observability: OpenTelemetry + Grafana 
 
 
 by building **GateKeeper**—an evolving, production-grade Identity & Access Management (IAM) system.
