@@ -26,8 +26,8 @@
 	- AWS (S3, ECS, Lambda) + Terraform
 
 - DevOps & Observability:
-	1- GitHub Actions (CI/CD)
-	1- Observability: OpenTelemetry + Grafana 
+	- GitHub Actions (CI/CD)
+	- Observability: OpenTelemetry + Grafana 
 
 
 by building **GateKeeper**—an evolving, production-grade Identity & Access Management (IAM) system.
